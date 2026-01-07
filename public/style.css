@@ -30,6 +30,6 @@ a {
 /****** Logo Div Styling ******/
 
 img {
-	margin: 20px auto 0 auto;
-	display: block;
+	margin: 24px auto 0 auto; /*changes made*/
+	display: block; 
 }
